@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 6f44738c2d42f1240a5990fc04b82afe
+timeCreated: 1509372605
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cica_0
+    21300002: Cica_1
+    21300004: Cica_2
+    21300006: Cica_3
+    21300008: Cica_4
+    21300010: Cica_5
+    21300012: Cica_6
+    21300014: Cica_7
+    21300016: Cica_8
+    21300018: Cica_9
+    21300020: Cica_10
+    21300022: Cica_11
+    21300024: Cica_12
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cica_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 197
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: -47.5}
+        - {x: 8.5, y: -50.5}
+        - {x: 48.5, y: -50.5}
+        - {x: 48.5, y: 40.5}
+        - {x: 33.5, y: 44.5}
+        - {x: 23.784424, y: 4.362091}
+        - {x: 15.491066, y: 13.438812}
+        - {x: 16.066597, y: 24.15326}
+        - {x: 17.475243, y: 32.26541}
+        - {x: 16.482185, y: 46.762207}
+        - {x: 13.851082, y: 50.108887}
+        - {x: 10.071461, y: 49.955994}
+        - {x: 4.039299, y: 48.09796}
+        - {x: -0.92430496, y: 44.2782}
+        - {x: -4.7830772, y: 45.46643}
+        - {x: -11.285141, y: 46.332153}
+        - {x: -18.157043, y: 46.902374}
+        - {x: -24.293865, y: 45.500732}
+        - {x: -29.929678, y: 44.047424}
+        - {x: -34.255356, y: 48.754852}
+        - {x: -46.935547, y: 49.32666}
+        - {x: -47.359024, y: 25.4711}
+        - {x: -45.999187, y: 13.020203}
+        - {x: -43.428837, y: 7.1246033}
+        - {x: -39.33229, y: 2.4230042}
+        - {x: -31.035389, y: -11.183853}
+        - {x: -27.869703, y: -38.133682}
+        - {x: -32.073254, y: -49.522217}
+        - {x: 5.5, y: -50.5}
+        - {x: 7.5, y: -48.5}
+        - {x: 7.5, y: -38.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cica_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 197
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -50.5}
+        - {x: 44.5, y: -50.5}
+        - {x: 48.5, y: -44.5}
+        - {x: 48.5, y: 38.5}
+        - {x: 33.5, y: 44.5}
+        - {x: 27.5, y: 32.5}
+        - {x: 28.5, y: 22.5}
+        - {x: 21.5, y: 45.5}
+        - {x: 18.5, y: 50.5}
+        - {x: -48.5, y: 50.5}
+        - {x: -48.5, y: 1.5}
+        - {x: -33.5, y: -36.5}
+        - {x: -19.5, y: -50.5}
+        - {x: 5.5, y: -50.5}
+        - {x: 6.5, y: -48.5}
+        - {x: 6.5, y: -35.5}
+        - {x: 7.5, y: -49.5}
+      - - {x: -25.5, y: -50.5}
+        - {x: -22.5, y: -49.5}
+        - {x: -22.5, y: -46.5}
+        - {x: -25.5, y: -45.5}
+        - {x: -27.5, y: -47.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cica_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 197
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 49.5}
+        - {x: -48.5, y: 49.5}
+        - {x: -48.5, y: 0.5}
+        - {x: -29.5, y: -35.5}
+        - {x: -15.5, y: -49.5}
+        - {x: 47.5, y: -49.5}
+        - {x: 48.5, y: -38.5}
+        - {x: 48.5, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cica_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 198
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -48}
+        - {x: 8, y: -50}
+        - {x: 48, y: -50}
+        - {x: 48, y: 43}
+        - {x: 37, y: 50}
+        - {x: -48, y: 50}
+        - {x: -48, y: -6}
+        - {x: -34, y: -50}
+        - {x: 6, y: -50}
+        - {x: 7, y: -49}
+        - {x: 7, y: -39}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cica_4
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 197
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -49.5}
+        - {x: -38.5, y: -47.5}
+        - {x: -41.5, y: -46.5}
+        - {x: -43.5, y: -49.5}
+      - - {x: -48.5, y: 49.5}
+        - {x: -48.5, y: -36.5}
+        - {x: -46.5, y: -49.5}
+        - {x: 48.5, y: -49.5}
+        - {x: 48.5, y: 45.5}
+        - {x: 41.5, y: 49.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cica_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 103
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.5, y: -62}
+        - {x: 51.5, y: -18}
+        - {x: 48.5, y: -18}
+        - {x: 40.5, y: -19}
+        - {x: 35.5, y: -24}
+        - {x: 24.5, y: -8}
+        - {x: 0.5, y: -3}
+        - {x: 4.5, y: 1}
+        - {x: 4.5, y: 11}
+        - {x: 5.5, y: 12}
+        - {x: 4.5, y: 6}
+        - {x: 4.5, y: 2}
+        - {x: 8.5, y: -3}
+        - {x: 36.5, y: -3}
+        - {x: 45.5, y: 0}
+        - {x: 51.5, y: 24}
+        - {x: 51.5, y: 74}
+        - {x: 43.5, y: 96}
+        - {x: -51.5, y: 96}
+        - {x: -51.5, y: -21}
+        - {x: -46.5, y: -96}
+        - {x: 1.5, y: -96}
+        - {x: 2.5, y: -89}
+        - {x: 1.5, y: -96}
+        - {x: 44.5, y: -96}
+      - - {x: 47.5, y: 91}
+        - {x: 47.5, y: 60}
+        - {x: 50.5, y: 59}
+        - {x: 51.5, y: 59}
+        - {x: 51.5, y: 94}
+        - {x: 48.5, y: 93}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cica_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 104
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: -71}
+        - {x: 52, y: -22}
+        - {x: 49, y: -20}
+        - {x: 42, y: -18}
+        - {x: 52, y: -1}
+        - {x: 52, y: 96}
+        - {x: -52, y: 96}
+        - {x: -52, y: -79}
+        - {x: -41, y: -96}
+        - {x: -1, y: -96}
+        - {x: 0, y: -92}
+        - {x: 2, y: -96}
+        - {x: 41, y: -96}
+      - - {x: -51, y: -21}
+        - {x: -52, y: -21}
+        - {x: -52, y: -52}
+        - {x: -48, y: -51}
+        - {x: -48, y: -24}
+      - - {x: 48, y: 96}
+        - {x: 47, y: 95}
+        - {x: 47, y: 75}
+        - {x: 49, y: 61}
+        - {x: 51, y: 60}
+        - {x: 52, y: 60}
+        - {x: 52, y: 96}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cica_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 95
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.814728, y: 25.336105}
+        - {x: -29.196106, y: 23.83876}
+        - {x: -27.573822, y: 23.954086}
+        - {x: -27.316055, y: 25.04132}
+      - - {x: -4.9108887, y: 23.672073}
+        - {x: -4.9108887, y: 25.024551}
+        - {x: -3.2686005, y: 25.024551}
+        - {x: -3.2686005, y: 23.672073}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cica_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 292
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: -29.5}
+        - {x: -55, y: -47.5}
+        - {x: -55, y: -48.5}
+        - {x: 146, y: -48.5}
+        - {x: 146, y: 48.5}
+        - {x: -146, y: 48.5}
+        - {x: -146, y: -48.5}
+        - {x: -62, y: -48.5}
+        - {x: -63, y: -25.5}
+        - {x: -56, y: -22.5}
+      - - {x: -98, y: 48.5}
+        - {x: -99, y: 47.5}
+        - {x: -98, y: 44.5}
+        - {x: -64, y: 44.5}
+        - {x: -63, y: 46.5}
+        - {x: -64, y: 48.5}
+      - - {x: 2, y: 48.5}
+        - {x: 2, y: 44.5}
+        - {x: 37, y: 44.5}
+        - {x: 38, y: 46.5}
+        - {x: 37, y: 48.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cica_9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 95
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -42.5}
+        - {x: 8.5, y: -47.5}
+        - {x: 11.5, y: -50.5}
+        - {x: 45.5, y: -50.5}
+        - {x: 48.5, y: -41.5}
+        - {x: 48.5, y: 43.5}
+        - {x: 46.5, y: 48.5}
+        - {x: 30.5, y: 38.5}
+        - {x: 27.5, y: 34.5}
+        - {x: 21.5, y: 50.5}
+        - {x: -48.5, y: 50.5}
+        - {x: -48.5, y: -9.5}
+        - {x: -32.5, y: -50.5}
+        - {x: 9.5, y: -50.5}
+        - {x: 8.5, y: -47.5}
+        - {x: 8.5, y: -37.5}
+        - {x: 9.5, y: -36.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cica_10
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 102
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 17.5}
+        - {x: 47, y: 22.5}
+        - {x: 42, y: 32.5}
+        - {x: 26, y: 27.5}
+        - {x: 18, y: 39.5}
+        - {x: -51, y: 39.5}
+        - {x: -51, y: -39.5}
+        - {x: 51, y: -39.5}
+        - {x: 51, y: -19.5}
+        - {x: 50, y: -18.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cica_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 199
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: -48.5}
+        - {x: -46.5, y: -49.5}
+        - {x: -35.5, y: -49.5}
+        - {x: -36.5, y: -46.5}
+        - {x: -39.5, y: -45.5}
+        - {x: -42.5, y: -45.5}
+      - - {x: -0.5, y: -49.5}
+        - {x: 44.5, y: -49.5}
+        - {x: 46.5, y: -44.5}
+        - {x: 48.5, y: -26.5}
+        - {x: 48.5, y: 36.5}
+        - {x: 33.5, y: 43.5}
+        - {x: 27.5, y: 31.5}
+        - {x: 28.5, y: 21.5}
+        - {x: 21.5, y: 44.5}
+        - {x: 18.5, y: 49.5}
+        - {x: -48.5, y: 49.5}
+        - {x: -48.5, y: -11.5}
+        - {x: -42.5, y: -49.5}
+        - {x: -7.5, y: -49.5}
+        - {x: -7.5, y: -47.5}
+        - {x: -8.5, y: -45.5}
+        - {x: -9.5, y: -41.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cica_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 100
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -49}
+        - {x: 48.5, y: -49}
+        - {x: 48.5, y: 37}
+        - {x: 41.5, y: 41}
+        - {x: 30.5, y: 43}
+        - {x: 24.5, y: 24}
+        - {x: 23.5, y: 41}
+        - {x: 44.5, y: 47}
+        - {x: 44.5, y: 49}
+        - {x: -48.5, y: 49}
+        - {x: -48.5, y: -5}
+        - {x: -37.5, y: -38}
+        - {x: -22.5, y: -49}
+        - {x: 5.5, y: -49}
+        - {x: 8.5, y: -46}
+        - {x: 8.5, y: -37}
+        - {x: 10.5, y: -48}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
